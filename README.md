@@ -91,9 +91,9 @@ The dataset is available through:
         
 ---
 
-📚 Lessons Learned
+## 📚 Lessons Learned
 
-k-NN is simple but powerful for small, well-separated datasets
-Importance of choosing the right k and scaling data
-Exploratory visualization reveals patterns the model uses
-Evaluation is critical: accuracy + confusion matrix = clarity
+- k-NN is simple but powerful for small, well-separated datasets
+- Importance of choosing the right k and scaling data
+- Exploratory visualization reveals patterns the model uses
+- Evaluation is critical: accuracy + confusion matrix = clarity
